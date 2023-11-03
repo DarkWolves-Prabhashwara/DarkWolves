@@ -1,6 +1,4 @@
 # DarkWolves
-DarkWolves 1.0v
-
 Hello! ,
 
 This is our 1st python package has uploaded to Github! , And we think you guys would be like to this package!
@@ -17,7 +15,10 @@ DarkWolves_target_url_content( url )
 url = target file url
 This function is use to get content of target url
 
+upload_file_to_server(file_path, server_address, server_port)
+
 Name_From_PathAddress( url )
+
 url = path
 
 _for an example :-
